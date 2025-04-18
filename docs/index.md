@@ -76,11 +76,11 @@ Se você quer criar jogos mas não sabe por onde começar, este guia é pra voc�
 
 ---
 
-## 🎤 Da onde eu vim – por Kyuu
+<!-- ## 🎤 Da onde eu vim – por Kyuu
 
 > Eu comecei no **GameMaker**, aprendendo com os vídeos do **HeartBeast** no YouTube. Com essa base, eu criei o meu jogo **Flatland Vol.2**, que foi um divisor de águas na minha jornada como desenvolvedor.
 
-> Aprender com ele me mostrou que você não precisa esperar o “momento certo” ou ter um PC top — só precisa começar, errar muito, e continuar. Se eu consegui, você consegue também.
+> Aprender com ele me mostrou que você não precisa esperar o “momento certo” ou ter um PC top — só precisa começar, errar muito, e continuar. Se eu consegui, você consegue também. -->
 
 ---
 
