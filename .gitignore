@@ -1,0 +1,21 @@
+# Node
+node_modules/
+dist/
+.cache/
+.vitepress/dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VitePress cache/output
+docs/.vitepress/dist/
+
+# Env
+.env
+.env.*
