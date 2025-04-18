@@ -10,33 +10,39 @@ Se você quer criar jogos mas não sabe por onde começar, este guia é pra voc�
 
 ---
 
-## 📚 Conceitos e Fundamentos
+## 📚 Conceitos e Fundamentos (Bibliografia)
 
 - **"Rules of Play" – Katie Salen & Eric Zimmerman**  
   Ótimo pra entender o que torna um jogo divertido e significativo.
 - **"Game Design Workshop" – Tracy Fullerton**  
   Prático, direto e com exercícios para você começar a prototipar ideias.
 - **"The Art of Game Design" – Jesse Schell**  
-  Um clássico. Passa por todos os aspectos do design de jogos, com 100 “lentes” para você olhar pro seu game.
+  Um clássico. Passa por todos os aspectos do design de jogos, com 100+ “lentes” para você olhar pro seu game.
 - **"Game Feel" – Steve Swink**  
   Essencial pra entender como deixar o jogo “gostoso” de jogar. Foco em sensações e feedbacks sutis.
 - **"An Architectural Approach to Level Design" – Christopher W. Totten**  
   Um olhar técnico e criativo sobre como espaços afetam o gameplay e a experiência do jogador.
+- **"Level Design Lobby - Books**  
+  Livros digitais focados em level design. Bastante profundo e direto ao ponto.
+- **"Game Programming Patterns - Robert Nystrom**  
+  Patterns de desenvolvimento de jogos. ([text](https://gameprogrammingpatterns.com/contents.html))
 
 ---
 
 ## 💻 Engines
 
-- **Unity** – engine completa, ideal pra 2D e 3D, usada por indies e grandes estúdios.
-- **Godot** – leve, gratuita, open source, ótima pra quem curte liberdade e quer algo mais “clean”.
-- **Unreal Engine** – poderosa, especialmente pra quem quer trabalhar com gráficos pesados.
-- **GameMaker Studio** – excelente pra quem quer fazer 2D rápido e focar mais na lógica.
+- [**Unity**](https://unity.com/) – engine completa, ideal pra 2D e 3D, usada por indies e grandes estúdios.
+- [**Godot**](https://godotengine.org/)– leve, gratuita, open source, ótima pra quem curte liberdade e quer algo mais “clean”.
+- [**Unreal Engine**](https://www.unrealengine.com/) – poderosa, especialmente pra quem quer trabalhar com gráficos pesados.
+- [**GameMaker Studio**](https://gamemaker.io/pt-BR) – excelente pra quem quer fazer 2D rápido e focar mais na lógica.
+- [**Construct 3**](https://www.construct.net/en) – visual Scripting, roda direto no browser, pra quem quer fazer jogos simples, pra web e mais.
 
 ---
 
 ## 🎓 Canais e Cursos Gratuitos
 
 - [**Brackeys**](https://www.youtube.com/user/Brackeys) – clássica porta de entrada pra Unity (mesmo estando parado, ainda é ouro).
+- [**Code Monkey**](https://www.youtube.com/@CodeMonkeyUnity) – Tutoriais, promoções, cursos. Unity em geral.
 - [**Game Maker’s Toolkit**](https://www.youtube.com/c/MarkBrownGMT) – análises profundas sobre design de jogos.
 - [**Mix and Jam**](https://www.youtube.com/c/MixandJam) – recriações de mecânicas famosas, ótimo pra aprender na prática.
 - [**GDC**](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ) – talks de alto nível com devs do mundo todo.
@@ -45,6 +51,8 @@ Se você quer criar jogos mas não sabe por onde começar, este guia é pra voc�
 - [**Jonas Tyroller**](https://www.youtube.com/c/JonasTyroller) – desenvolvedor indie com vídeos sinceros, devlogs e reflexões valiosas.
 - [**Scientia Ludos**](https://www.youtube.com/@ScientiaLudos) – ótimas análises sobre mecânicas, narrativa e filosofia dos jogos.
 - [**Archipel**](https://www.youtube.com/channel/UC3zoY9LapZERsN7caDKqz0w) – documentários lindíssimos sobre desenvolvedores japoneses, arte e cultura dos jogos.
+- [**Estúdio Vaca Roxa**](https://www.youtube.com/c/Est%C3%BAdioVacaRoxa) – Parceiros da vida de gamedev. Muito conteúdo maneiro sobre mercado, desenvolvimento pessoal e profissional.
+- [**Game Dev Beginner**](https://www.youtube.com/@GameDevBeginner) – Tópicos profundos pra dúvidas óbvias. As vezes o mais obvio precisa ser dito e revisto mesmo assim.
 
 ---
 
