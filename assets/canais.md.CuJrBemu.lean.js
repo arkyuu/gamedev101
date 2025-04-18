@@ -1,0 +1,1 @@
+import{_ as r,c as a,o,ae as t}from"./chunks/framework.BBKv4tiT.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"canais.md","filePath":"canais.md"}'),s={name:"canais.md"};function n(i,e,l,c,u,d){return o(),a("div",null,e[0]||(e[0]=[t("",2)]))}const h=r(s,[["render",n]]);export{g as __pageData,h as default};
