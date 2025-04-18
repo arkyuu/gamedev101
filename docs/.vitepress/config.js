@@ -1,4 +1,5 @@
 export default {
+  base: '/gamedev101-site/', // MUITO IMPORTANTE pra GitHub Pages
   title: "GameDev 101",
   description: "Guia para quem quer começar a fazer jogos, por Kyuu",
   themeConfig: {
