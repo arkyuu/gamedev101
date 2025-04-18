@@ -1,0 +1,1 @@
+import{_ as r,c as t,o as a,ae as o}from"./chunks/framework.C-RSn94N.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"recursos.md","filePath":"recursos.md"}'),s={name:"recursos.md"};function n(l,e,i,c,_,f){return a(),t("div",null,e[0]||(e[0]=[o("",2)]))}const u=r(s,[["render",n]]);export{p as __pageData,u as default};
